@@ -77,9 +77,6 @@ Repository name 아래에 <br />
 <br /><br />
 <div style="text-align:center">이제 블로그가 만들어졌어요 <br />
 블로그 확인하러 가고 싶잖아요? 가봅시다</div><br />
-
-<br />
-
 <br />
  <li>setting 누르기 </li> 
 <br />
@@ -186,15 +183,9 @@ https://본인 깃허브 아이디.github.io/
 <p><div style="text-align:center">이제 블로그가 만들어 졌습니다 축하합니다!<br />  
 하지만 이렇게 블로그를 쓸 수는 없잖아요?<br />  
 사진도 내맘대로 바꾸고 타이틀도 바꾸고 정말 내 블로그로 만들어 봅시다<br />
-   <br />
-   2탄에서는<br />
-   사진바꾸기<br />
-   타이틀 변경하기<br />
-   카테고리 넣기<br /> 
-   head 변경하기<br /> 
-   about에 내 소개하기 등등<br /> 
 
-그럼 2탄으로 돌아오겠습니다 이만</div> 
+그럼 2탄으로 돌아오겠습니다<br />
+그럼 안녕!</div> 
 </p>
 
 <br />  <br />  <br />  
