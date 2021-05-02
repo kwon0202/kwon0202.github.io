@@ -19,7 +19,7 @@ categories: [blog]
 <p>
 <div style="text-align:center">블로그에 적용할 테마보기 - LONG HAUL 테마</div>
 <br />
-<img src="{{ '/assets/210502/1.png' | prepend: site.baseurl }}" alt="LONG HAUL 테마" width="50%"></p>
+<img src="{{ '/assets/210502/1.png' | prepend: site.baseurl }}" alt="LONG HAUL 테마"></p>
 
 <p>
 <br />
@@ -32,33 +32,33 @@ categories: [blog]
 <br />
 <p><div style="text-align:center">블로그에 적용할 테마 가져오기 </div></p>
 
-<br /><br />
-1. 아래의 홈페이지에 들어갑니다 
 <br />
-<h4><a href=" http://jekyllthemes.org/themes/long-haul/" target="_blank">http://jekyllthemes.org/themes/long-haul/</h4>
+1. 아래의 홈페이지에 들어가기
+<br />
+<a href=" http://jekyllthemes.org/themes/long-haul/" target="_blank">http://jekyllthemes.org/themes/long-haul/</a>
 
 <br /><br />
-2. Homepage 버튼을 누릅니다  
+2. Homepage 버튼을 누르기 
 <br />
-<img src="{{ '/assets/210502/2.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/210502/2.jpg' | prepend: site.baseurl }}" alt="">
 
 
 <br /><br />
 3. 왼쪽 깃허브 고양이 밑에 저장소 이름 확인
 <br />
 brianmaierjr / long-haul 인지 확인! 
-<img src="{{ '/assets/210502/3.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/210502/3.jpg' | prepend: site.baseurl }}" alt="">
 
 <br /><br />
 4. 오른쪽 fork 버튼 누르기 
 <br />
-<img src="{{ '/assets/210502/4.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/210502/4.jpg' | prepend: site.baseurl }}" alt="">
 
 <br /><br />
 5. 저장소 이름 바뀐거 확인 후 setting 누르기 
 <br />
 본인 깃허브 아이디 / long-haul 로 바뀜 
 <br />
-<img src="{{ '/assets/210502/5.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ '/assets/210502/5.jpg' | prepend: site.baseurl }}" alt="">
 
 
