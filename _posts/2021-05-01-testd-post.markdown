@@ -11,8 +11,7 @@ categories: [blog]
 <div style="text-align:center">※ 블로그 주인 코딩 수준 : only '생활코딩 html 기초' 수료 ※</div><br />
 <div style="text-align:right"><small>Jekyll 몰라서 못 쓰는거 아님<br />
    Jekyll 설치하다 못 알아먹어서 그런거 아님<br />
-  코딩 쪼랩이라 틀릴 수 있음 기술적인 설명 못함 왜그런지 모름<br />
-  얘보단 잘 한다라면 누구나 가능하다! 내 깃허브 블로그 만들기!</small></div>
+  코딩 쪼랩이라 틀릴 수 있음 기술적인 설명 못함 왜그런지 모름</small></div>
 </p>
 <br />
 
