@@ -17,7 +17,7 @@ categories: [blog]
 <br />
 
 <p>
-<div style="text-align:center">블로그에 적용할 테마보기 - LONG HAUL 테마</div>
+<div style="text-align:center">[블로그에 적용할 테마보기 - LONG HAUL 테마]</div>
 <br />
 <img src="{{ '/assets/210502/1.png' | prepend: site.baseurl }}" alt="LONG HAUL 테마"></p>
 
@@ -56,7 +56,8 @@ brianmaierjr / long-haul 인지 확인!
 <br />
  <li>저장소 이름 바뀐거 확인 후 setting 누르기</li>
  <br />
-본인 깃허브 아이디 / long-haul 로 바뀜 
+<span style="background-color:yellow">본인 깃허브 아이디</span> / long-haul 로 바뀜 
+
 <br />
 <img src="{{ '/assets/210502/5.jpg' | prepend: site.baseurl }}" alt="">
 
@@ -64,13 +65,13 @@ brianmaierjr / long-haul 인지 확인!
  <li>저장소 이름(Repository name) 바꿔 깃허브 블로그 주소 받기 </li> 
  <br />
 Repository name 아래에 <br />
-본인 깃허브 아이디.github.io   →  Rename 버튼 누르기 
+<span style="background-color:yellow">본인 깃허브 아이디</span>.github.io   →  Rename 버튼 누르기 
 <br />
 <img src="{{ '/assets/210502/6.jpg' | prepend: site.baseurl }}" alt="">
 
 <br />
  <li>저장소 주소 확인 </li> <br />
-본인 깃허브 아이디 / 본인 깃허브 아이디.github.io 
+<span style="background-color:yellow">본인 깃허브 아이디</span> / <span style="background-color:yellow">본인 깃허브 아이디</span>.github.io 
 <br />
 <img src="{{ '/assets/210502/7.jpg' | prepend: site.baseurl }}" alt="">
 
@@ -90,7 +91,7 @@ Repository name 아래에 <br />
 
 <br />
  <li>본인 블로그 링크 누르기</li> <br />
-https://본인 깃허브 아이디.github.io/
+https://<span style="background-color:yellow">본인 깃허브 아이디</span>.github.io/
 <br />
 <img src="{{ '/assets/210502/10.jpg' | prepend: site.baseurl }}" alt="">
 
@@ -123,7 +124,7 @@ url 주소를 바꾸러 갑시다.</div><br />
 
 <br />
  <li>url /baseurl 주소 수정하기</li><br /> 
-url: https://본인 깃허브 아이디.github.io/<br /> 
+url: https://<span style="background-color:yellow">본인 깃허브 아이디</span>.github.io/<br /> 
 baseurl: "/" 
 <br />
 (baseurl은 두번째 주소라고 생각하시면 됩니다.<br />
@@ -163,7 +164,7 @@ baseurl: "/"
 
 <br />
  <li>본인 블로그 링크 누르기</li> <br />
-https://본인 깃허브 아이디.github.io/
+https://<span style="background-color:yellow">본인 깃허브 아이디</span>.github.io/
 <br />
 <img src="{{ '/assets/210502/10.jpg' | prepend: site.baseurl }}" alt="">
 
