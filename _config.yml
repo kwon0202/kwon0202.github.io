@@ -30,15 +30,8 @@ social:
   github: kwon0202
 #  twitter: brianmaierjr
 #  facebook: brianmaierjr
-  email: kyoungwon0202@gmail.com
-#  linkedin: brianmaierjr
+  email: 
+  #  linkedin: brianmaierjr
 
 google_analytics: 
 
-<script src="https://utteranc.es/client.js"
-        repo="kwon0202 / blog-comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
