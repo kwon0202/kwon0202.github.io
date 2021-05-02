@@ -35,7 +35,7 @@ categories: [blog]
 <br /><br />
 1. 아래의 홈페이지에 들어갑니다 
 <br />
-<h3><a href=" http://jekyllthemes.org/themes/long-haul/" target="_blank">http://jekyllthemes.org/themes/long-haul/</h3>
+<h4><a href=" http://jekyllthemes.org/themes/long-haul/" target="_blank">http://jekyllthemes.org/themes/long-haul/</h4>
 
 <br /><br />
 2. Homepage 버튼을 누릅니다  
