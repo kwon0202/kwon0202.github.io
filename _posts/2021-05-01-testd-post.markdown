@@ -2,6 +2,7 @@
 layout: post
 title: "깃허브만으로 Github Blog 만들기 (Long Haul 테마)-1. 블로그 만들기"
 date:   2021-05-02
+comments: true
 categories: [blog]
 ---
 
