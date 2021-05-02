@@ -35,5 +35,10 @@ social:
 
 google_analytics: 
 
-disqus:
-    shortname: disqus_KVTH5ONEL0
+<script src="https://utteranc.es/client.js"
+        repo="kwon0202 / blog-comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
