@@ -23,14 +23,14 @@ categories: [blog]
 
 <p>
 <br />
-깔끔하죠? 
+<div style="text-align:center">깔끔하죠?</div><br />
 <br />
-<div style="text-align:right">블로그 주인의 수준이 개미 코딱지만하기 때문에 다른 테마는 할 수가 없어요<br />
-(이미 다른 테마로 만들었다가 실패실패실패. 성공한게 LONG HAUL테마)</div>
+<div style="text-align:right"><small>블로그 주인의 수준이 개미 코딱지만하기 때문에 다른 테마는 할 수가 없어요<br />
+(이미 다른 테마로 만들었다가 실패실패실패. 성공한게 LONG HAUL테마)</small></div>
 </p>
 
 <br />
-<p><div style="text-align:center">블로그에 적용할 테마 가져오기 </div></p>
+<p><div style="text-align:center">[그럼 START!]</div></p>
 
 <ol>
     <li>아래의 홈페이지에 들어가기</li>
@@ -105,7 +105,7 @@ https://본인 깃허브 아이디.github.io/
 <br /><br />
 <div style="text-align:center">URL 주소가 맞지 않기 때문에 테마가 제대로 적용이 안된 거에요<br /> 
 파일 하나만 바꾸면 됩니다!<br />
-url 주소를 바꾸러 갑시다.</div><br /><br />
+url 주소를 바꾸러 갑시다.</div><br />
 
 <br />
  <li>다시 깃허브 저장소로 돌아와서 아래로 쭉 내려와 _config.yml 파일 열기 </li> 
@@ -129,23 +129,27 @@ url 주소를 바꾸러 갑시다.</div><br /><br />
 url: https://본인 깃허브 아이디.github.io/<br /> 
 baseurl: "/" 
 <br />
-(baseurl은 두번째 주소라고 생각하시면 됩니다. 하지만 우리는 baseurl이 없기때문에 공백으로 둡니다)
+(baseurl은 두번째 주소라고 생각하시면 됩니다.<br />
+하지만 우리는 baseurl이 없기때문에 공백으로 둡니다)
 <br />
 <img src="{{ '/assets/210502/15.jpg' | prepend: site.baseurl }}" alt="">
 
 <br />
  <li>아래로 내려와 Commit change 하기</li><br /> 
 
-<div style="text-align:justify">커밋을 한다 = 현재에서 과거로 돌아갈 수 있는 시간의 문을 심는다.  = 언제든 그때로 돌아갈 수 있다.<br /> 
+커밋을 한다<br /> 
+= 현재에서 과거로 돌아갈 수 있는 시간의 문을 심는다.<br />  
+= 언제든 그때로 돌아갈 수 있다.<br /> 
 저는 "Change URL" 이라고 commit 제목을 정했지만 "url 바꿈" 이라고 하던지 "고양이 최고" 라던지 하셔도 상관없어요<br /> 
-하지만 무얼 바꿨는지 단번에 알아볼 수 있게 해야 나중에 에러가 나서 다시 이때로 돌리고 싶을 때 쉽게 찾을 수 있어요!<br /> 
+하지만 무얼 바꿨는지 단번에 알아볼 수 있게 해야 <br />
+나중에 에러가 나서 다시 이때로 돌리고 싶을 때 쉽게 찾을 수 있어요!<br /> 
 그래서 제목을 보고 무얼 바꿨는지 알 수 있게 적어놓는 겁니다</div><br />
 
 <img src="{{ '/assets/210502/16.jpg' | prepend: site.baseurl }}" alt="">
 
 <br />
  <li>_congif.yml 파일 바뀐 것 확인하기</li> 
-     _config.yml &nbsp;&nbsp;&nbsp;본인이 쓴 커밋 제목 
+     _config.yml &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;본인이 쓴 커밋 제목 
 <br />
 <img src="{{ '/assets/210502/17.jpg' | prepend: site.baseurl }}" alt="">
 
@@ -179,18 +183,18 @@ https://본인 깃허브 아이디.github.io/
 
 </ol>
 
-<p>이제 블로그가 만들어 졌습니다 축하합니다!<br />  
+<p><div style="text-align:center">이제 블로그가 만들어 졌습니다 축하합니다!<br />  
 하지만 이렇게 블로그를 쓸 수는 없잖아요?<br />  
 사진도 내맘대로 바꾸고 타이틀도 바꾸고 정말 내 블로그로 만들어 봅시다<br />
    <br />
-   2탄에서는
-   사진바꾸기 <br />
-   타이틀 변경하기 <br />
-   카테고리 넣기 <br /> 
-   head 변경하기 <br /> 
+   2탄에서는<br />
+   사진바꾸기<br />
+   타이틀 변경하기<br />
+   카테고리 넣기<br /> 
+   head 변경하기<br /> 
    about에 내 소개하기 등등<br /> 
 
-그럼 2탄으로 돌아오겠습니다 이만 
+그럼 2탄으로 돌아오겠습니다 이만</div> 
 </p>
 
 <br />  <br />  <br />  
