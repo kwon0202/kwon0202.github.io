@@ -32,6 +32,22 @@ social:
 #  facebook: brianmaierjr
   email: 
   #  linkedin: brianmaierjr
+  
+ <script src="https://utteranc.es/client.js"
+        repo="kwon0202/blog-comments"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+repository               : "kwon0202/kwon0202.github.io" # GitHub username/repo-name e.g. ""
 
 google_analytics: 
+
+comments:
+provider: "utterances"
+utterances:
+  theme: "github-light" # "github-dark"
+  issue_term: "pathname"
 
